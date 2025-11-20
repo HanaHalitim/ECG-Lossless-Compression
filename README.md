@@ -56,7 +56,7 @@ ecg_compression_project/
 ### Quick Install
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/ecg_compression_project.git
+git clone https://github.com/HanaHalitim/ECG-Lossless-Compression.git
 cd ecg_compression_project
 
 # Install dependencies
